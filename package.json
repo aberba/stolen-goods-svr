@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/adwendevs/stolen-goods-svr#readme",
   "dependencies": {
-    "bcrypt": "^1.0.2",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "cloudinary": "^1.11.0",
     "cors": "^2.8.4",
